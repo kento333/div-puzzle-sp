@@ -31,6 +31,10 @@
   margin-top: 20px;
   display: flex;
 }
+
+.center_inner:first-child {
+  margin-top: 0;
+}
 .center_inner-left {
   width: 50px;
   height: 50px;
